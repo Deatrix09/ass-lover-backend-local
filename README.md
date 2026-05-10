@@ -44,4 +44,4 @@ docker run -p 8000:8000 --env-file .env rag-backend
 
 ## CI/CD
 
-On every push to `main`, GitHub Actions automatically builds and pushes the Docker image to `ghcr.io/your-org/rag-backend:latest`.
+On every push to `main`, GitHub Actions automatically builds and pushes the Docker image to `ghcr.io/Deatrix09/ass-lover-backend-local:latest`.
